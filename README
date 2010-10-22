@@ -1,0 +1,4 @@
+
+Something like this:
+
+	../rumpler/bin/rumpler -g steamcannon-deltacloud-core -v 0.0.8.1 -o specs -r ../torquebox-rpm/gemfiles/root.yml
